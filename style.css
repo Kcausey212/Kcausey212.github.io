@@ -103,6 +103,12 @@ body {
       margin-bottom: 10px;
     }
 
+    #portifolio
+    li:hover {
+      background:
+    #eee;
+    }
+
     #portfolio a {
       text-decoration: none;
       color: #454545; 
